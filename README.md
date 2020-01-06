@@ -4,4 +4,6 @@ Just another github repository
 Hi mate,
 My name is riza
 
-Github I'm commingChanges from local
+Github I'm comming Changes from local
+
+Changes from remote
